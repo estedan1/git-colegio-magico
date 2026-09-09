@@ -1,7 +1,3 @@
-# 📝 Plantilla de Entrega: El Pensadero
-
-Responde a las siguientes preguntas como parte de tu evaluación final. Guarda una copia de este archivo con tu nombre (ej: `JUAN_PEREZ.md`).
-
 1.  **¿Usaste Inteligencia Artificial para resolver los retos (del 3 al 9)?**
     *Respuesta:* (No pero si autocomplete sabiendo la respuesta)
 
